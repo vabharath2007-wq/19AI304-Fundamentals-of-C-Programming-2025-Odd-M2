@@ -56,6 +56,7 @@
 ### Step 11:
   Stop
 # Program:
+    ```c
     #include <stdio.h>
     int main()
     {
@@ -95,6 +96,7 @@
     
         return 0;
     }
+    ```
 # Output:
 <img width="612" height="332" alt="image" src="https://github.com/user-attachments/assets/9f4a5652-4ed5-47e2-9af9-08f236dcbfed" />
 
@@ -129,6 +131,7 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+      ```c
       #include <stdio.h>
       int main()
       {
@@ -143,6 +146,7 @@ Thus, the program was implemented and executed successfully, and the required ou
       
           return 0;
       }
+      ```
 # Output:
 <img width="510" height="460" alt="image" src="https://github.com/user-attachments/assets/64dfa654-57dc-4405-b18d-ac9f7da6fc01" />
 
@@ -188,6 +192,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+    ```c
     #include <stdio.h>
     int main()
     {
@@ -218,6 +223,7 @@ Thus, the program was implemented and executed successfully, and the required ou
         }
         return 0;
     }
+    ```
 # Output:
 <img width="425" height="275" alt="image" src="https://github.com/user-attachments/assets/8c97214a-3cc9-40d8-9a5a-aef037f0aa57" />
 
@@ -268,6 +274,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+```c
 #include <stdio.h>
 int main()
 {
@@ -301,7 +308,7 @@ int main()
     }
     return 0;
 }
-
+```
 return 0;
 # Output:
 <img width="527" height="387" alt="image" src="https://github.com/user-attachments/assets/6e4ac5e9-de6b-4250-8df5-5a04dc2144ef" />
@@ -360,6 +367,7 @@ return 0;
   Stop
 
 # Program:
+    ```c
     #include <stdio.h>
     int main()
     {
@@ -386,6 +394,7 @@ return 0;
     
         return 0;
     }
+    ```
 
 # Output:
 <img width="562" height="392" alt="image" src="https://github.com/user-attachments/assets/b6cf50a1-2baa-4c36-830b-bd08e1c6a73e" />
