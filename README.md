@@ -216,7 +216,6 @@ Thus, the program was implemented and executed successfully, and the required ou
             else
                 printf("%d is not a Prime Number\n", n);
         }
-    
         return 0;
     }
 # Output:
@@ -300,7 +299,6 @@ int main()
 
         printf("\n");
     }
-
     return 0;
 }
 
