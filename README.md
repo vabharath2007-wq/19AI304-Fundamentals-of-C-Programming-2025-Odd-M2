@@ -269,20 +269,40 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-printf("12345\n");
-for(i = 2; i <= 4; i++)
+#include <stdio.h>
+int main()
 {
-    printf("%d", i);
+    int i, j, n, k;
 
-    for(j = 1; j <= 3; j++)
+    n = 5;
+
+    for (i = 1; i <= n; i++)
     {
-        printf(" ");
+        for (j = i; j <= n; j++)
+        {
+            if (i == 1 || j == i)
+                printf("%d", j);
+            else
+                printf(" ");
+        }
+
+        k = j - 2;
+
+        for (j = 1; j < i; j++)
+        {
+            if (i == n || j == i - 1)
+                printf("%d", k);
+            else
+                printf(" ");
+
+            k--;
+        }
+
+        printf("\n");
     }
 
-    printf("%d\n", 6 - i);
+    return 0;
 }
-
-printf("54321\n");
 
 return 0;
 # Output:
